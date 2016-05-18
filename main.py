@@ -1,4 +1,4 @@
-from distutils.core import setup
+#from distutils.core import setup
 import os, sys, shutil, time, operator, math, string, random, colorsys
 from PIL import Image
 
