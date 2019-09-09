@@ -3,3 +3,15 @@ The script provides service saldklfbewlf ewjfbefbl I know english very well.
 
 Я не выбрал никакую лицензию, потому что мне лень их читать, но все крутые чуваки ставят MIT, поэтому я тоже поставлю.
 Лицензия MIT.
+
+Короче, чтобы это крендель заработал придется его немножк подправить, напсиан он был на древнейшей версии питона, и еще Pillow через PIP нужно поставить. 
+
+Но вот что он делает.
+
+Из всего этого мусора:
+![image](https://user-images.githubusercontent.com/2446589/64571717-63c10180-d36d-11e9-9c64-e618cbc0e043.png)
+
+Делает вот такую прелесть:
+![image](https://user-images.githubusercontent.com/2446589/64571738-763b3b00-d36d-11e9-8e73-1912b1809f7e.png)
+
+![image](https://user-images.githubusercontent.com/2446589/64571745-7f2c0c80-d36d-11e9-9ae8-13824d5dc30a.png)
